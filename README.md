@@ -1,2 +1,2 @@
 # project_euler
-Location for Project EUler py-codes
+Location for Project Euler projects
